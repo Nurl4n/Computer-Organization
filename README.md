@@ -1,2 +1,2 @@
 # Computer-Organization
-Computer Organization
+MIPS instruction set and registers. Branching and procedure calls, addressing modes. Single cycle processor datapath. Single cycle control. Multicycle processor datapath. Multicycle control. Exceptions, interrupts. Pipelining. Pipelining hazards and stalls. Superscalar processor, out of order execution, Register renaming. IA-32 architecture. Memory system performance and hierarchy, caches. Memory system optimization, virtual memory. Memory mapped I/O.
